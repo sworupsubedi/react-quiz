@@ -13,7 +13,7 @@ The React Quiz App is an interactive quiz game built with React. It allows users
 - **Score Tracking**: Users can track their score and aim for a high score by answering questions correctly.
 - **Timer**: A countdown timer adds a sense of urgency to the quiz, enhancing the user experience.
 - **Progress Indicator**: Users can see their progress through the quiz with a progress bar.
-- **Highscore Tracking**: The app keeps track of the user's highscore, motivating them to improve with each attempt.
+- **Highscore Tracking**: The app keeps track of the user's high score, motivating them to improve with each attempt.
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ The React Quiz App is an interactive quiz game built with React. It allows users
 
 ## Demo
 
-Check out the [React Quiz App](sworupsubedi.github.io/react-quiz/) to test your React mastery!
+Check out the [React Quiz App](https://sworupsubedi.github.io/react-quiz/) to test your React mastery!
 
 ## Contributor
 
